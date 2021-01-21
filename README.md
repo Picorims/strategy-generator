@@ -1,8 +1,11 @@
 # strategy-generator
+
 This program is a .csv file generator for the Swan League game of the tutored project made during the 1st semester at university (IUT Orsay). A program capable of calculating the results is required in order to process the data and obtain game results.
 
 # commands
+
 `<program_name> -c`: run the program with console input.
+
 `<program_name> <number_of_rows> <points_distribution_of_season>`: directly generate a .csv file with `number_of_rows` rows and `points_distribution_of_season` point distribution for the season. The ID and title must be configured manually if you want to change it. (line 1).
 
 # license
